@@ -1,9 +1,9 @@
 ## 🔍 About Me
-I’m Maya, a data and ML specialist with 3+ years of experience in machine learning, Generative AI, and applied statistics, building models and data products that support measurable business outcomes.
+I’m Maya, a data and ML specialist with 4+ years of experience in machine learning, Generative AI, and applied statistics, building models and data products that support measurable business outcomes.
 
 ## 💼 Background & Expertise
 
-- **Professional Journey**: Spent two years in fintech as a data scientist, and 2 years in healthcare as a data analyst. I was a mathematics tutor expert in statiostical and limear Algebra. 
+- **Professional Journey**: I Spent two years in at HiWEB which is in the telecommunication industry as a data and ML Consultant, and 2 years in an Insurance company, Saman Insurance, as a data scientist. Besides, I was a mathematics tutor expert in statiostical and linear Algebra. 
 
 - **Education**: I hold a BSc and MSc in Biomedical Engineering, as well as a professional diploma in Artificial Intelligence from the Université du Québec à Montréal.
 
