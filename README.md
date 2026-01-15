@@ -1,5 +1,6 @@
 ## 🔍 About Me
-I'm Maya, a data scientist with over 3 years of academic and professional experience in machine learning, statistics. 
+I’m Maya, a data and ML specialist with 3+ years of experience in machine learning, Generative AI, and applied statistics, building models and data products that support measurable business outcomes.
+
 ## 💼 Background & Expertise
 
 - **Professional Journey**: Spent two years in fintech as a data scientist, and 2 years in healthcare as a data analyst. I was a mathematics tutor expert in statiostical and limear Algebra. 
