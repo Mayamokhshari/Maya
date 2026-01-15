@@ -10,7 +10,7 @@ Experienced in SQL, Python, R, Power BI, cloud data platforms, and GenAI (LLM + 
 
 
 ## What I Bring to the Table
-- **Machine Learning**: I did several projects related to machine learning in finance, biotech, and telecommunication.
+- **Machine Learning**: I did several projects related to machine learning in finance, insurance, biotech, and telecommunication.
 - **Python**: I worked with Python for more than 7 years since my bachelor's and I worked with different libraries of Python, including Tensorflow, PyTorch, Scikit Learn, Numpy, Pandas, Scipy, NLTK, and much more.
 - **SQL**:  
 - **PowerBI**: In addition, I have two years of experience using Power BI from my time at Saman Bank
