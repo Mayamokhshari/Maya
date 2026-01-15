@@ -3,7 +3,7 @@ I’m Maya, a data and ML specialist with 4+ years of experience in machine lear
 
 ## 💼 Background & Expertise
 
-- **Professional Journey**: I Spent two years in at HiWEB which is in the telecommunication industry as a data and ML Consultant, and 2 years in an Insurance company, Saman Insurance, as a data scientist. Data & ML specialist with 3+ years of experience in analytics, machine learning, and applied statistics.  
+- **Professional Journey**: I Spent two years in at HiWEB which is in the telecommunication industry as a data and ML Consultant, and 2 years in an Insurance company, Saman Insurance, as a data scientist. Data & ML specialist with 4+ years of experience in data, analytics, machine learning, and applied statistics.  
 Experienced in SQL, Python, R, Power BI, cloud data platforms, and GenAI (LLM + RAG). Besides, I was a mathematics tutor expert in statiostical and linear Algebra. 
 
 - **Education**: I hold a BSc and MSc in Biomedical Engineering, as well as a professional diploma in Artificial Intelligence from the Université du Québec à Montréal.
